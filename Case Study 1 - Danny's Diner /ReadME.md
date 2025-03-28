@@ -7,7 +7,7 @@ Danny loves Japanese food, so in early 2021, he opened a small restaurant offeri
 ## Problem Statement
 Danny wants to analyze customer data to understand their visiting patterns, spending habits, and favorite menu items to enhance the customer experience. He plans to use these insights to evaluate whether to expand the loyalty program. To assist him, you will generate basic datasets for easy inspection without requiring SQL. He has provided a sample of customer data, which is sufficient for writing SQL queries to answer his questions.
 
-##Datatables Provided
+## Datatables Provided
 Three key datasets for this case study
 - <strong>Sales</strong>: The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
 - <strong>Menu</strong>: The menu table maps the product_id to the actual product_name and price of each menu item.
