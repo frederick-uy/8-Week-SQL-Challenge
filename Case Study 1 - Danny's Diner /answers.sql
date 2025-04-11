@@ -4,7 +4,7 @@
 
 -- 1. What is the total amount each customer spent at the restaurant?
 SELECT
-  sales.customer_id,
+  sales.customer_id
   SUM(menu.price)
 FROM
   dannys_diner.sales AS sales
